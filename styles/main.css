@@ -20,6 +20,7 @@ background-color:#FFECE2;
   padding-bottom: 60%;
 }
 
+
 .content {
   background-color:#FFECE2;
     padding: 10px;
@@ -44,10 +45,3 @@ background-color:#FFECE2;
   height: 70%;
   padding-left: 15%;
 }
-
-.footer {
-    background-color:#755D6B;
-    padding: 5px;
-    text-align: center;
-
-  }
