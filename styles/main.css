@@ -25,7 +25,10 @@ background-color:#FFECE2;
   background-color:#FFECE2;
     padding: 10px;
     height: 100%;
+}
 
+.blog-table {
+    padding: 10px;
 }
 
 .social{
