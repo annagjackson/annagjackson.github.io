@@ -17,7 +17,7 @@ background-color:#FFECE2;
   font-family: 'Cabin Sketch', cursive;
   color: #FFECE2;
   height: 100%;
-  padding-bottom: 20%;
+  padding-bottom: 60%;
 }
 
 .content {
@@ -37,11 +37,12 @@ background-color:#FFECE2;
 .fa {
   padding: 5%;
 }
-.gif {
-  position:relative;
-  max-width: 60%;
-  max-height: 60%;
-  padding-left: 20%;
+
+.gif{
+  position: relative;
+  width: 70%;
+  height: 70%;
+  padding-left: 15%;
 }
 
 .footer {
