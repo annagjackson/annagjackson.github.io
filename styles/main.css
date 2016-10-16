@@ -7,6 +7,7 @@ background-color:#FFECE2;
   background-color:#E5989B;
   padding-left: 10px;
   font-family: 'Cabin Sketch', cursive;
+  color: #FFECE2;
   height: 100%;
 }
 
@@ -14,6 +15,7 @@ background-color:#FFECE2;
   background-color:#B5838D;
   padding-left: 10px;
   font-family: 'Cabin Sketch', cursive;
+  color: #FFECE2;
   height: 100%;
   padding-bottom: 20%;
 }
@@ -28,14 +30,18 @@ background-color:#FFECE2;
 .social{
   background-color:#755D6B;
   text-align: left;
+  color: #FFECE2;
   height: 100%;
 }
 
 .fa {
   padding: 5%;
-
-
-
+}
+.gif {
+  position:relative;
+  max-width: 60%;
+  max-height: 60%;
+  padding-left: 20%;
 }
 
 .footer {
