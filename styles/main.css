@@ -1,30 +1,37 @@
-
+.body {
+  max-height: width: 100%;
+}
 .container {
 background-color:#FFECE2;
+max-width: 100%;
 }
 
 .header {
-  background-color:#E5989B;
+  background-color:#1EAEDB;
   padding-left: 10px;
-  font-family: 'Cabin Sketch', cursive;
-  color:#755D6B;
+  margin-bottom: 30px;
+  font-family: 'Cabin Sketch';
+  color:#FFECE2;
   height: 100%;
 }
 
 .nav {
-  background-color:#B5838D;
+  background-color:#FFECE2;
   padding-left: 10px;
-  font-family: 'Cabin Sketch', cursive;
-  color:#FFECE2;
-  padding-bottom: 225%;
-
+  font-family:'Cabin Sketch';
+  color:#755D6B;
+  height: 100%;
 }
-
+.row {
+  height: 100%;
+  max-width: 100%;
+}
 
 .content {
   background-color:#FFECE2;
-    padding: 10px;
-    height: 100%;
+    padding: 20px;
+    text-align: justify;
+
 }
 
 .blog-table {
@@ -36,9 +43,11 @@ background-color:#FFECE2;
 }
 
 .social{
-  background-color:#755D6B;
+  background-color:#FFECE2;
+  font-family:'Cabin Sketch';
   text-align: left;
-  color: #FFECE2;
+  padding-left: 10px;
+  color: #755D6B;
   height: 100%;
 }
 
